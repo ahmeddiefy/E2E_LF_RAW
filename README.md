@@ -12,6 +12,12 @@ Each module is modeled using a residual network based on a convolutional neural 
 End-to-end, our network was trained to reduce the total of absolute errors between the reconstructed and ground truth images.
 Experimental findings on three real-world datasets show that our suggested method has great performance and superiority over state-of-the-art approaches.
 
+
+The trained model can be downloaded at:
+https://drive.google.com/file/d/1dxkATqSta7tC275njhQb4XFNPuZCdtqg/view?usp=sharing
+
+
+
 For training:
 1- Download training data from: https://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIGASIA16/
  and save the training data at ./data/TrainingData/Training/{Dataset Folder}
